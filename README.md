@@ -1,10 +1,6 @@
 ## Hi, I'm Jayxunbey 😎
 
- - 💻 I´m a Software Developer!.
- - 🤓 I mainly work on creating web applications in Java (Spring tools, Databases, and other technologies).
- - 🔎 I am currently learning new technologies like Bootstraps and Vue js
- - 🎯 I intend to be a Full Stack Web developer.
- - 📫 How to reach me: muxammedovjayxun@gmail.com
+welcome to my GitHub Page. I am Jayxunbey and now Computer engineering student, I learn new things about programming and teach these things to others, I have been worked with many languages and technologies
  
 ## My favorite tools and technologies ⚙️
 
