@@ -1,6 +1,6 @@
-![ezgif-6-1576287579](https://github.com/user-attachments/assets/dbbc1f4b-88ce-43ca-9e2a-cb09c3debb13)
-
-
+<div>
+ <img style = "width: 1000px" src = "https://github.com/user-attachments/assets/3eca25c4-c576-4f95-9691-5c1946769efd">
+</div>
 
 welcome to my GitHub Page. I am Jayxunbey and now Computer engineering student, I learn new things about programming and teach these things to others, I have been worked with many languages and technologies
  
