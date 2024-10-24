@@ -1,5 +1,3 @@
-## Hi, I'm Jayxunbey 😎
-
 ![ezgif-6-1576287579](https://github.com/user-attachments/assets/dbbc1f4b-88ce-43ca-9e2a-cb09c3debb13)
 
 
