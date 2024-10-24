@@ -95,3 +95,15 @@ welcome to my GitHub Page. I am Jayxunbey and now Computer engineering student, 
  <tr>
  </tr>
 </table>
+
+## Stats
+
+<div>
+ <img style = "margin: 15px;" align="center" src="https://github-readme-stats.vercel.app/api?username=Jayxunbey&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayxunbey&layout=compact&theme=radical" />
+</div>
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayxunbey&theme=github_dark)
+
+
+
